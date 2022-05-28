@@ -2,6 +2,7 @@
 
 - This is a challenge from Frontend Mentor where I had to copy specific Design.
 - Only Pure HTML, CSS and JavaScript were allowed.
+- https://luxury-panda-00e2d8.netlify.app/ link to the website
 
 # Reflections
 
